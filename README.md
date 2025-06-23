@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **aravind3905@gmail.com**
+- 📫 How to reach me **aravindakuthota543@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
